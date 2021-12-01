@@ -1,0 +1,9 @@
+file：beer->GA_Expect_para
+	run main.m
+        beer->GWO_Expect_para
+	run ILC_Open_loop_sy_duo_7_9.m
+        
+
+
+
+       

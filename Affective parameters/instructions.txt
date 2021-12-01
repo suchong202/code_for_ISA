@@ -1,0 +1,4 @@
+file：Affective parameters->GA
+	run m_main_ga06.m
+        Affective parameters->GWO
+	run main.m

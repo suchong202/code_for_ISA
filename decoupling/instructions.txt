@@ -1,0 +1,6 @@
+file：
+        decoupling->GA_Expect_para
+	run juece.m
+        decoupling->GWo_Expect_para
+	run juece.m
+
